@@ -10,7 +10,7 @@
   "author": "LarchitecT",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.3.2",
+    "discord.js": "^11.6.4",
     "chalk": "^2.4.1",
     "ms": "^2.1.1"
   }
